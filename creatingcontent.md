@@ -32,6 +32,9 @@ Once you have your bio, pop it onto your GitHub repository. You can add links in
 
 
 
+
+
+
 The advice below is from Cornell Career Services on what should be included in a resume.
 
 > **Heading**
