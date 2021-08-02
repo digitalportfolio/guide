@@ -35,7 +35,7 @@ In the end, the design and layout of the site is entirely up to you. You might p
 
 Here are some example Bios from our Digital Portfolios:
 
-[James's Digital Portfolio](https://jdweaver14.github.io/projectsite/)
+[James's Digital Portfolio](https://jdweaver14.github.io/James/)
 
 [Gaby's Digital Portfolio](https://gabriellehaam.github.io/aboutme/)
 
