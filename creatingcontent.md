@@ -34,8 +34,11 @@ Once you have your bio, pop it onto your GitHub repository. You can add links in
 In the end, the design and layout of the site is entirely up to you. You might prefer to have a very minimal bio and then link to more information on different pages, or to have your Digital Portfolio with all content on a single, scrollable page.
 
 Here are some example Bios from our Digital Portfolios:
+
 [James's Digital Portfolio](https://jdweaver14.github.io/projectsite/)
+
 [Gaby's Digital Portfolio](https://gabriellehaam.github.io/aboutme/)
+
 [Parker's Digital Portfolio](https://pfeinerman311.github.io/about/)
 
 
