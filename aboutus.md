@@ -22,6 +22,10 @@ View our own Digital Portolios here:
 [Parker's Digital Portfolio](https://pfeinerman311.github.io/about/)
 
 
-[Start Here](/guide/gettingstarted/){: .btn}
+
+[Start Here](/guide/gettingstarted){: .btn1}
+
+
+
 
 
