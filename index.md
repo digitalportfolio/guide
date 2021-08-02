@@ -23,7 +23,7 @@ View our own Digital Portolios here:
 
 
 
-[Start Here](/guide/gettingstarted){: .btn}
+[Start Here](/guide/gettingstarted){: .btn1}
 
 <button name="button" onclick="/guide/gettingstarted">Start HEREE</button>
 
