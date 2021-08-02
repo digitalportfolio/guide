@@ -32,6 +32,25 @@ a {
   background-color: rgba(30, 144, 255, 0.2);
   border-color: rgba(30, 144, 255, 0.3); }
 
+@media screen and (min-width: 64em) {
+  .btn1 {
+    padding: 0.75rem 1rem; } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .btn1 {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem; } }
+
+@media screen and (max-width: 42em) {
+  .btn1 {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem; }
+    .btn1 + .btn1 {
+      margin-top: 1rem;
+      margin-left: 0; } }
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
