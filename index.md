@@ -25,5 +25,5 @@ View our own Digital Portolios here:
 
 [Start Here](/guide/gettingstarted){: .btn1}
 
-<button name="button" onclick="/guide/gettingstarted">Start HEREE</button>
+<button name="button" onclick="https://digitalportfolio.github.io/guide/gettingstarted">Start HEREE</button>
 
