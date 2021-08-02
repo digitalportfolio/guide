@@ -17,6 +17,7 @@ a {
 
 .btn1 {
   margin: 0 auto;
+  text-align: center;
   display: block;
   color: rgba(30, 144, 255, 0.7);
   background-color: rgba(30, 144, 255, 0.08);
