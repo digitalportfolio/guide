@@ -24,3 +24,5 @@ View our own Digital Portolios here:
 
 [Start Here](/guide/gettingstarted/){: .btn}
 
+<button name="button" onclick="/guide/gettingstarted/">Start HEREE</button>
+
