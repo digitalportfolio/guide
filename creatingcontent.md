@@ -44,6 +44,8 @@ Here are some example Bios from our Digital Portfolios:
 
 
 
+### Using Your Resume
+
 The advice below is from Cornell Career Services on what should be included in a resume.
 
 > **Heading**
