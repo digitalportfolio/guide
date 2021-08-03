@@ -4,7 +4,9 @@ layout: template
 filename: index
 --- 
 
-# About Us
+# Creating your Digital Portfolio with GitHub Pages
+
+## About This Project
 
 This project was created by [Parker Feinerman](https://pfeinerman311.github.io/about/), [Gabrielle Haam](https://gabriellehaam.github.io/aboutme/) and [James Weaver](https://jdweaver14.github.io/projectsite/). 
 This guide was developed for Cornell University College of Engineering students.
