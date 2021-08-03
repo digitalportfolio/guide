@@ -30,14 +30,23 @@ For help with your resume, you can check out:
 ## Get Inspired: Example Digital Portfolios
 
 [Raymond Xu](http://raymondxu.net/projects.html), former Cornell Engineering Student
+
 [Shea Belsky](https://www.sheabelsky.com/work), former Cornell Engineering student
+
 [Alexander Mordvintsev](https://znah.net/), creator of Deep Dream
+
 [Gloria Lo](https://www.glorialo.design/), a UIUX Digital Portfolio
+
 [Moritz Oesterlau](https://www.moritzoesterlau.de/), a UIUX Digital Portfolio
+
 [Bryan Tamada](http://btamada.github.io/), a software engineer
+
 [Steve Losh](https://stevelosh.com/projects/), a photographer / developer
+
 [Aditi Mohanti](https://aditimohanty.com/), a software engineer
+
 [Andrew Drozdov](https://mrdrozdov.github.io/), a PhD student
+
 
 
 
