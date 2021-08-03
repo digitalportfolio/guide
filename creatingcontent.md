@@ -56,6 +56,10 @@ _June 2016_ \| Jericho, NY
 ![Education](https://user-images.githubusercontent.com/22283357/127919491-298b7ccb-92b4-46f0-af26-6c9107401584.gif)
 
 
+
+-----------
+
+
 In the end, the design and layout of the site is entirely up to you. You might prefer to have a very minimal bio and then link to more information on different pages, or to have your Digital Portfolio with all content on a single, scrollable page.
 
 Here are some example Bios from our Digital Portfolios:
@@ -67,6 +71,9 @@ Here are some example Bios from our Digital Portfolios:
 [Parker's Digital Portfolio](https://pfeinerman311.github.io/about/)
 
 
+
+
+-----------
 
 
 ### Using Your Resume
