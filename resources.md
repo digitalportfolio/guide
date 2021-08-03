@@ -18,6 +18,7 @@ You can also take a look at the [code for our site](https://github.com/digitalpo
 ## Markdown, HTML, CSS
 
 - Markdown Help: [Markdown Documentation](https://www.markdownguide.org/basic-syntax/)
+- Markdown Help: [Markdown Cheatsheet](https://wordpress.com/support/markdown-quick-reference/)
 - CSS: [W3](https://www.w3schools.com/css/)
 - HTML: [W3](https://www.w3schools.com/html/)
 
