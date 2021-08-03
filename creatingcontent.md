@@ -21,36 +21,28 @@ You could include information on the following:
 - Personal Interests / Hobbies 
 
 Once you have your bio, pop it onto your GitHub repository. You can add links in markdown like this:
-```
-> **John Smith**
->> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
->> Interested in Natural Language Processing.
-```
-> **John Smith**
->> Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
->> Interested in Natural Language Processing.
 
 ```
-# Education
-
-## Cornell University, College of Engineering
-_August 2021_  \| Ithaca, NY
-- Bachelor of Science, Computer Science \| Minor in Business, Dyson School of Business
-  
-## Jericho Senior High School
-_June 2016_ \| Jericho, NY  
-- **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
-```
+# John Smith
+- Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
+- Interested in Natural Language Processing.
 
 # Education
 
 ## Cornell University, College of Engineering
 _August 2021_  \| Ithaca, NY
 - Bachelor of Science, Computer Science \| Minor in Business, Dyson School of Business
-  
-## Jericho Senior High School
-_June 2016_ \| Jericho, NY  
-- **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
+```
+
+# John Smith
+- Computer Science Major at [Cornell Engineering](https://www.engineering.cornell.edu/). Team Lead at [Cornell App Dev](https://www.cornellappdev.com/ "Cornell App Dev"). Summer 2020 Intern at [Microsoft Research](https://www.microsoft.com/en-us/research/).
+- Interested in Natural Language Processing.
+
+# Education
+
+## Cornell University, College of Engineering
+_August 2021_  \| Ithaca, NY
+- Bachelor of Science, Computer Science \| Minor in Business, Dyson School of Business
 
 
 ![Education](https://user-images.githubusercontent.com/22283357/127919491-298b7ccb-92b4-46f0-af26-6c9107401584.gif)
