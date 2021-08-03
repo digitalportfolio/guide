@@ -24,6 +24,14 @@ Why did you make certain decisions, what skills did you take away from completin
 **What was the impact of the project?**
 Can you describe the impact of the project in some way? For example, if you have designed and implemented an app, how many users do you have? If you designed an engine for Cornell Car, how much more efficient was it than the previous version? 
 
+
+As you add to your Digital Portfolio, you will realize that the more documentation you have on your projects, the easier it will be to display them, and the more impressive they will look. ***Documenting your work*** is extremely important. 
+
+Our team have experienced building something really cool at a hackathon (e.g. a VR music experience), but not having access anymore to the source code or the means to view it. Capturing images while you are working on your project is much easier than trying to launch / re-host a web project or trying to find and run a drone experiment after the fact. In addition having documentation showing your process can really help to demonstrate your contribution.
+
+
+--------
+
 ## Adding Project Information
 
 The core motivation behind using this website in addition to a traditional resume was to better represent technical projects that would be beyond the scope of and length of a typical one page resume. Therefore, once you have your basic website set up as shown above, the most important thing you need to do is showcase your technical, likely GitHub based, projects in such a way that employers reading the website can quickly identify key points and even dive into your project in detail if they choose. However, it would be a mistake to simply include all of your code or just directly link to the GitHub repository of interest. While this website is a place to showcase technical projects, some of the “one page resume logic” still applies here. You should present the information in such a way that someone simply skimming the website can quickly walk away with the high level information, and someone more interested in the project can find more detailed information, and even the code base. With that in mind, we recommend structuring your presentation of technical projects in the following manner: 
