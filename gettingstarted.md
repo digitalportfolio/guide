@@ -29,6 +29,10 @@ Once logged into your GitHub account, you will need to create a new repository w
 [Creating a New Repo GIF](https://user-images.githubusercontent.com/22283357/126868712-9e824e2d-270d-4302-9b9a-158ba2a476fa.gif)
 
 
+
+
+
+
 2. Create an index.md (markdown) file in your repository and commit
 - Once you have created your repository, create a new markdown file within it called “index.md”. Commit this file (default settings).
 From your repository, go to Settings.
@@ -39,7 +43,11 @@ From your repository, go to Settings.
 
 ## Linking Your Repo to GitHub Pages
 
-1. In Settings > Pages, set up your repo to publish
+
+
+
+
+3. In Settings > Pages, set up your repo to publish
 - From your repository, go to settings (cog icon top left)
 - On the left hand side, scroll down to Pages.
 - In the “Source” section, select the main branch
@@ -48,7 +56,11 @@ From your repository, go to Settings.
 
 [Publishing to GitHub Pages GIF](https://user-images.githubusercontent.com/22283357/126868848-45a19ed9-3e25-49e2-a065-3f95a6110a23.gif)
 
-2. Choose a theme for your site
+
+
+
+
+4. Choose a theme for your site
 - Choose a theme - this will be the template for your site
 - Hit "select theme"
 
@@ -57,13 +69,19 @@ From your repository, go to Settings.
 [Selecting A Theme GIF](https://user-images.githubusercontent.com/22283357/126868961-43d3fead-8fd3-4cad-b825-8feac8612e1f.gif)
 
 
-3. Commit - your site is now online
+
+
+
+5. Commit - your site is now online
 - You are now on the markdown file which is the basis of your site. This is what you can later edit to add content to your site. For now, you can go ahead and commit to publish.
 - Our site is published at https://digitalportfolio.github.io/guide - Yours will be published at <yourgithubusername>.github.io/<repositoryname> (the url can also be found in your settings > Pages)
 
 ![Commit the Template File GIF](https://user-images.githubusercontent.com/22283357/126868764-7118795c-2416-48f5-a59b-efc289690974.gif)
   
-4. You can edit the code in index.md to customize text, add images
+
+  
+  
+6. You can edit the code in index.md to customize text, add images
 - Scroll down to see our markdown guide to see how to get started
 
 
