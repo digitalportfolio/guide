@@ -1,5 +1,5 @@
 ---
-title: Additional Resources
+title: Add Resources
 layout: template
 filename: resources
 --- 
