@@ -78,3 +78,6 @@ Finally, after providing an increasingly comprehensive summary of the project, y
 ![2021-08-03-19-21-08](https://user-images.githubusercontent.com/22283357/128098676-a0544a75-4469-4f67-a2c9-71fc6c85d761.gif)
 
 
+
+[Next: Resources](/guide/resources){: .btn1}
+
