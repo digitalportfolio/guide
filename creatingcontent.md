@@ -110,3 +110,8 @@ If we are looking to use our resumes as a starting point for content to add to o
 
 For the remainder of the sections, relating to your achievements and experiences, your Digital Portfolio is your chance to expand upon your favourite projects. Create pages showing images, videos of your work and your process or directly publish any interactive work. You can have pages for each of the projects you want to highlight, or group them into categories (e.g. a page for project team work, a page for internship projects).
 
+
+
+
+[Next: Adding Projects](/guide/addingprojects){: .btn1}
+
