@@ -30,6 +30,9 @@ For help with your resume, you can check out:
 
 ## Get Inspired: Example Digital Portfolios
 
+A great way to decide how you want to design your digital portfolio is to have a look at some examples.
+We have collected a few here for you to browse:
+
 [Raymond Xu](http://raymondxu.net/projects.html), former Cornell Engineering Student
 
 [Shea Belsky](https://www.sheabelsky.com/work), former Cornell Engineering student
