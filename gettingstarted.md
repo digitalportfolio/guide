@@ -38,13 +38,6 @@ From your repository, go to Settings.
 ![Adding Firsg File GIF](https://user-images.githubusercontent.com/22283357/126868743-39709a5f-090d-44c3-bd6c-364f3ecfde14.gif)
 
 
-
-## Linking Your Repo to GitHub Pages
-
-
-
-
-
 ## 4 Publish Your Repository
 In Settings > Pages, set up your repo to publish
 - From your repository, go to settings (cog icon top left)
@@ -84,6 +77,7 @@ In Settings > Pages, set up your repo to publish
 You can edit the code in index.md to customize text, add images
 - Go to [Creating Content](/creatingcontent) to learn how to start building content for your site.
 - Your GitHub page can be edited in Markdown, a lightweight markup language. Here is a [cheat sheet](https://wordpress.com/support/markdown-quick-reference/) of some basic Markdown syntax to get you started with editing your page and adding content. 
+- When you edit the markdown file with your main content and commit, your site will update automatically. If you are having trouble accessing the latest version, it may be that your browser has cached an older version. Ensure that you have Disabled Cache, or try opening in a private browsing tab. 
 
 
 [Viewing Your Page GIF](https://user-images.githubusercontent.com/22283357/126868853-cd5e5ad2-b131-4319-837d-93adffbc4589.gif)
