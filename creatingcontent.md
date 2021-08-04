@@ -58,7 +58,7 @@ Here are some example Bios from our Digital Portfolios:
 
 [James's Digital Portfolio](https://jdweaver14.github.io/James/)
 
-[Gaby's Digital Portfolio](https://gabriellehaam.github.io/aboutme/)
+[Gaby's Digital Portfolio](https://gabriellehaam.github.io/aboutme)
 
 [Parker's Digital Portfolio](https://pfeinerman311.github.io/about/)
 
