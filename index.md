@@ -6,7 +6,7 @@ filename: index
 
 # Creating your Digital Portfolio with GitHub Pages
 
-## About this project
+## About This Project
 
 This project was created by [Parker Feinerman](https://pfeinerman311.github.io/about/), [Gabrielle Haam](https://gabriellehaam.github.io/aboutme) and [James Weaver](https://jdweaver14.github.io/James/). 
 This guide was developed for Cornell University College of Engineering students.
@@ -17,7 +17,7 @@ For more information on the background of this project, please see our accompany
 
 
 
-## What you'll learn in our guide:
+## What You'll Learn in our Guide:
 1. [Create your GitHub Pages site](/guide/gettingstarted)
 2. [Write Your Bio](/guide/creatingcontent)
 3. [How to Add Projects](/guide/addingprojects)
