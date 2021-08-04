@@ -84,3 +84,8 @@ You can edit the code in index.md to customize text, add images
 
 ![Adding a Page Title](https://user-images.githubusercontent.com/22283357/127797700-070a4c1e-dc7c-4bd7-866d-963c5865243e.gif)
 
+  
+  
+  
+  
+ [Next: Creating Content](/guide/creatingcontent){: .btn1}
