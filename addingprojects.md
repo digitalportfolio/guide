@@ -47,7 +47,7 @@ You want any recruiter or interested party who is going through your website to 
 ![High Level Description](https://user-images.githubusercontent.com/22283357/128097080-4e5e5b9c-aef3-448e-97d4-ca6055151491.gif)
 
 
-### Describe your Contribution
+### Describe Your Contribution
 
 It’s possible the reader will leave after just reading the high level description. However, in the event that they want to keep reading, they will have an unknown and limited attention span. We want to capitalize on this by providing incremental pieces or more in depth information related to the project. Therefore, after the high level description, you should add a few short sentences or a bulleted list of your contributions to the project if it was a group effort. If this was an individual project, you could skip this section and move onto the key technical details section. However, since GitHub is a version control and collaboration tool, it is likely the project had multiple contributors. A potential employer would be interested only in what you can personally add, so making sure to highlight the portions of the project you worked on is key. 
 
@@ -66,7 +66,7 @@ This part is dependent on the type of project you are looking to showcase. While
 ![2021-08-03-19-10-44](https://user-images.githubusercontent.com/22283357/128097922-1befc19b-280c-4fd4-8a86-cc8642afb710.gif)
 
 
-### Visualizations and other artifacts
+### Visualizations and Other Artifacts
 This part is also highly project dependent. The ideal artifact to include here would be a screenshot or gif of your project in action to visualize to the employer what the project is and what you did with it. This is a great opportunity for the website to outshine a resume, since a resume will not have such visualizations. Great options to include here include photos, gifs, embedded videos, slides, or any other artifact or visualization related to your project. If there are any papers related to the project, linking them could also be a useful move. You want this to be eye catching and quickly communicate what this project is about. Depending on the project and the detail of the visualizations you have, you should also consider placing visualizations higher up on the page, possibly with the high level description of the project. For example, if you have a great gif that showcases the overall project in action, that would be great to include above. However, if you have a very detailed slide, picture, or video that describes the project in more technical detail, leaving it lower is better to not obscure the overall summary information, but still be available for those who were interested or devoted to the project enough to scroll down that far. 
 
 ![2021-08-03-19-12-00](https://user-images.githubusercontent.com/22283357/128097986-0232a338-14ad-42bc-9823-2dad64a9c1b8.gif)
