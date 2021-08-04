@@ -11,7 +11,8 @@ filename: gettingstarted
 
 ## 1 Creating a GitHub Account
 
-If you don’t already have one, you will need a GitHub account to get started with your GitHub hosted Digital Portfolio.
+- If you don’t already have one, you will need a GitHub account to get started with your GitHub hosted Digital Portfolio.
+- We recommend **not** to use your education account, as it may become inaccessible upon graduation.
 
 ## 2 Creating a New Repo
 
