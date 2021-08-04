@@ -16,7 +16,7 @@ If you don’t already have one, you will need a GitHub account to get started w
 ## Creating a New Repo
 
 Once logged into your GitHub account, you will need to create a new repository with the following steps.
-\1. Create a new repository
+\1\. Create a new repository
 - Click the icon to create a new repository.
 - Name your repository anything you like (e.g. “digitalportfolio”).
 - Set visibility to public.
@@ -33,7 +33,7 @@ Once logged into your GitHub account, you will need to create a new repository w
 
 
 
-\2. Create an index.md (markdown) file in your repository and commit
+\2\. Create an index.md (markdown) file in your repository and commit
 - Once you have created your repository, create a new markdown file within it called “index.md”. Commit this file (default settings).
 From your repository, go to Settings.
 
@@ -47,7 +47,7 @@ From your repository, go to Settings.
 
 
 
-\3. In Settings > Pages, set up your repo to publish
+\3\. In Settings > Pages, set up your repo to publish
 - From your repository, go to settings (cog icon top left)
 - On the left hand side, scroll down to Pages.
 - In the “Source” section, select the main branch
