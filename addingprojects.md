@@ -31,7 +31,7 @@ Can you describe the impact of the project in some way? For example, if you have
 
 As you add to your Digital Portfolio, you will realize that the more documentation you have on your projects, the easier it will be to display them, and the more impressive they will look. ***Documenting your work*** is extremely important. 
 
-Our team have experienced building something really cool at a hackathon (e.g. a VR music experience), but not having access anymore to the source code or the means to view it. Capturing images while you are working on your project is much easier than trying to launch / re-host a web project or trying to find and run a drone experiment after the fact. In addition having documentation showing your process can really help to demonstrate your contribution.
+Our team have experienced building something really cool at a hackathon (e.g. a VR music experience), but not having access to the source code after the event or the means to view it. Capturing images **while** you are working on your project is much easier than after the fact (e.g. trying to launch / re-host a web project or trying to run a drone experiment). Having documentation showing your process can help to demonstrate your design decisions and contribution.
 
 
 --------
